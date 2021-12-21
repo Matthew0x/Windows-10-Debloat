@@ -1,14 +1,14 @@
-#Array of string variables in PowerShell
+#Array of string values in PowerShell
 $apps=@(   
-	#APPS THAT YOU MIGHT WANT TO KEEP!
-	#"Microsoft.BioEnrollment" //Windows Hello
+    #Commented out apps won't be removed!
+    #"Microsoft.BioEnrollment" //Windows Hello
     #"Microsoft.MSPaint"
     #"Microsoft.Office.OneNote"
-	#"Microsoft.DesktopAppInstaller"
-	#"Microsoft.Microsoft3DViewer"
-	#"Microsoft.WindowsCalculator"
+    #"Microsoft.DesktopAppInstaller"
+    #"Microsoft.Microsoft3DViewer"
+    #"Microsoft.WindowsCalculator"
     #"Microsoft.WindowsCamera"
-	#"Microsoft.WindowsStore"
+    #"Microsoft.WindowsStore"
     "9E2F88E3.Twitter"
     "ClearChannelRadioDigital.iHeartRadio"
     "Flipboard.Flipboard"
